@@ -8,5 +8,10 @@ public class Main {
 
         String string = "Hello worlds";
         System.out.println(string);
+        System.out.println(string);
+        System.out.println(string);
+        System.out.println(string);
+        System.out.println(string);
+        System.out.println(string);
     }
 }
