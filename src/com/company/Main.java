@@ -6,28 +6,7 @@ public class Main {
         int test = 12;
         String test2 = "test";
 
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
-        System.out.println(test2);
+        String string = "Hello worlds";
+        System.out.println(string);
     }
 }
